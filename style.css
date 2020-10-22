@@ -1,0 +1,144 @@
+.list .onedimentionArray {
+  display: flex;
+}
+
+.AddressArray {
+  display: flex;
+}
+.list .box {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  margin-right: 10px;
+  border: 1px solid rgb(146, 146, 12);
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+
+.firstgrade {
+  background-color: red;
+}
+
+.secondgrade {
+  background-color: blue;
+}
+
+.thirdgrade {
+  background-color: pink;
+}
+
+.box2 {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  margin-right: 30px;
+  border: 1px solid rgb(146, 146, 12);
+  font-size: 20px;
+
+  text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+
+.box3 {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border: 1px solid rgb(146, 146, 12);
+  font-size: 20px;
+  margin-right: 20px;
+  text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+.grade {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.stack_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stack_button button {
+  margin-top: 30px;
+  margin-right: 30px;
+  height: 70px;
+  width: 100px;
+}
+
+.queue_button button {
+    margin-top: 30px;
+    margin-right: 30px;
+    height: 70px;
+    width: 100px;
+  }
+
+.stack_button_2 div {
+  margin-top: 30px;
+  margin-right: 30px;
+  height: 70px;
+  width: 100px;
+}
+
+.stack_size {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stack_place {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stack_place_2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stack_place div {
+  height: 70px;
+  width: 70px;
+  background-color: white;
+  margin-right: 30px;
+  border: 1px solid rgb(146, 146, 12);
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+}
+.stack_place_2 div {
+  height: 70px;
+  width: 70px;
+  background-color: white;
+  margin-right: 30px;
+  border: 1px solid rgb(146, 146, 12);
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+}
+
+.stack_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.queue_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__input {
+  margin-right: 10px;
+}
